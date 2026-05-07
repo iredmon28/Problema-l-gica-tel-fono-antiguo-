@@ -3,7 +3,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class teclado{
+public class Teclado{
     public static void main(String [] args){
         ArrayList<Character> palabra = new ArrayList<>();
         Scanner sc = new Scanner (System.in);
